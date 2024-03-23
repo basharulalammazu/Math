@@ -1,8 +1,8 @@
 # Matrix Operations Program
 
-Welcome to the Matrix Operations Program! This program provides a comprehensive set of operations for working with matrices, including single matrix operations and multiple matrix operations.
+Welcome to the Matrix Operations Program! This program provides a comprehensive set of operations for working with matrices, including elementary and advanced matrix operations.
 
-## Single Matrix Operations
+## Elementary Matrix Operations
 
 ### Identity Matrix
 - **Function:** `generateIdentityMatrix(size)`
@@ -32,7 +32,7 @@ Welcome to the Matrix Operations Program! This program provides a comprehensive 
 - **Function:** `isSingular(matrix)`
 - **Description:** Checks if a matrix is singular (non-invertible).
 
-## Multiple Matrix Operations
+## Advanced Matrix Operations
 
 ### Matrix Addition
 - **Function:** `addMatrices(matrix1, matrix2)`
